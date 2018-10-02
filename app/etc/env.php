@@ -1,7 +1,7 @@
 <?php
 return [
     'backend' => [
-        'frontName' => 'testadmin'
+        'frontName' => 'testadmin-1'
     ],
     'crypt' => [
         'key' => 'b3162007563a5602a31395b9a5193669'
