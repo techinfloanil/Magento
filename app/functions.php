@@ -2,7 +2,8 @@
 /**
  * Copyright © Magento, Inc. All rights reserved.
  * See COPYING.txt for license details.
- */
+ * test comment
+ * /
 
 /**
  * Create value-object \Magento\Framework\Phrase
